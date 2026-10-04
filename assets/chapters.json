@@ -1,0 +1,196 @@
+[
+ {
+  "piece": "open",
+  "pos": "right",
+  "kicker": "MUSCLE ARKITEKT 01",
+  "headline": "YOU PUT IN<br>THE WORK.",
+  "body": "We&rsquo;ll tell you what actually matters.",
+  "cta": true,
+  "ctaLabel": "Shop Muscle Arkitekt 01",
+  "hero": true,
+  "box": [
+   0.76,
+   0.47,
+   0.4
+  ]
+ },
+ {
+  "piece": "tip",
+  "pos": "right",
+  "kicker": "NO GUESSING",
+  "headline": "EVERY GRAM<br>ON THE BACK.",
+  "body": "No proprietary blend. Nothing hidden behind a fancy name.",
+  "box": [
+   0.77,
+   0.48,
+   0.36
+  ]
+ },
+ {
+  "piece": "breakout",
+  "pos": "right",
+  "kicker": "WHAT ACTUALLY MATTERS",
+  "headline": "FIVE THINGS.<br>NOTHING ELSE.",
+  "body": "Not a shelf of tubs and conflicting advice. The five that do the work.",
+  "box": [
+   0.77,
+   0.5,
+   0.36
+  ]
+ },
+ {
+  "piece": "fall",
+  "blank": true,
+  "kicker": "",
+  "headline": "",
+  "body": ""
+ },
+ {
+  "piece": "whey",
+  "pos": "br",
+  "spot": [
+   0.215,
+   0.333
+  ],
+  "kicker": "01 / HYDROLYZED WHEY ISOLATE",
+  "headline": "The<br>foundation.",
+  "body": "Hydrolyzed whey isolate. 30 g of protein, with 6.4 g of BCAAs built into the whey.",
+  "amount": "34.5 g",
+  "icon": "i-whey",
+  "treat": "lb",
+  "box": [
+   0.865,
+   0.68,
+   0.24
+  ]
+ },
+ {
+  "piece": "creatine",
+  "pos": "br",
+  "spot": [
+   0.492,
+   0.333
+  ],
+  "kicker": "02 / CREAPURE CREATINE",
+  "headline": "The work<br>adds up.",
+  "body": "Creapure monohydrate. Halal- and kosher-certified at the ingredient level by Alzchem.",
+  "amount": "5 g",
+  "icon": "i-creatine",
+  "treat": "lb",
+  "box": [
+   0.865,
+   0.68,
+   0.24
+  ]
+ },
+ {
+  "piece": "beta",
+  "pos": "bl",
+  "spot": [
+   0.766,
+   0.333
+  ],
+  "kicker": "03 / CARNOSYN BETA-ALANINE",
+  "headline": "One more<br>set.",
+  "body": "CarnoSyn beta-alanine. A branded, patented ingredient, named on the label.",
+  "amount": "5 g",
+  "icon": "i-beta",
+  "treat": "lb",
+  "box": [
+   0.865,
+   0.68,
+   0.24
+  ]
+ },
+ {
+  "piece": "hmb",
+  "pos": "br",
+  "spot": [
+   0.332,
+   0.694
+  ],
+  "kicker": "04 / CALCIUM HMB",
+  "headline": "Hold<br>the line.",
+  "body": "Calcium HMB. Rarely included at all, let alone at this dose.",
+  "amount": "3 g",
+  "icon": "i-hmb",
+  "treat": "lb",
+  "box": [
+   0.865,
+   0.68,
+   0.24
+  ]
+ },
+ {
+  "piece": "elec",
+  "pos": "bl",
+  "spot": [
+   0.633,
+   0.694
+  ],
+  "kicker": "05 / ELECTROLYTE BLEND",
+  "headline": "Replace what<br>you lose.",
+  "body": "Electrolyte blend: magnesium, potassium, calcium, sodium.",
+  "amount": "3.9 g",
+  "icon": "i-elec",
+  "treat": "lb",
+  "box": [
+   0.12,
+   0.7,
+   0.22
+  ]
+ },
+ {
+  "piece": "flyup",
+  "blank": true,
+  "kicker": "",
+  "headline": "",
+  "body": ""
+ },
+ {
+  "piece": "blend",
+  "kicker": "FIVE INTO ONE",
+  "headline": "ONE BAG.<br>NOT FIVE TUBS.",
+  "body": "The stack people buy separately and guess at, measured into one serving.",
+  "box": [
+   0.27,
+   0.48,
+   0.42
+  ],
+  "big": true,
+  "pos": "left"
+ },
+ {
+  "piece": "pourprep",
+  "pos": "tl",
+  "kicker": "TWO SCOOPS",
+  "headline": "THAT&rsquo;S THE<br>ROUTINE.",
+  "body": "Two scoops, one blend, done. No measuring, no stacking, no research.",
+  "box": [
+   0.17,
+   0.36,
+   0.3
+  ],
+  "big": true
+ },
+ {
+  "piece": "pour",
+  "blank": true,
+  "kicker": "",
+  "headline": "",
+  "body": ""
+ },
+ {
+  "piece": "drop",
+  "pos": "tr",
+  "kicker": "PURE FUSION",
+  "headline": "WE&rsquo;VE GOT<br>THE REST.",
+  "body": "You put in the work. Pure Fusion tells you what actually matters.",
+  "cta": true,
+  "box": [
+   0.77,
+   0.38,
+   0.36
+  ]
+ }
+]
